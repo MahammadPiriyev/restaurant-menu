@@ -1,2 +1,2 @@
-## Restaurant-Menu App | Python/Django
+Restaurant-Menu App | Python/Django
 
